@@ -1,4 +1,4 @@
-# awesome-bio-inspired-robots :robot:
+# awesome-bio-inspired-robots :robot: :star: :rocket:
 The list of bio-inspired-robots. If you have an interesting project and you'd like to contribute to this list, please let me know. The easiest way to add this list to your favorites is by clicking the ⭐ in the top right corner of the page. This list is for you, so feel free to modify and use it as you wish, just remember to cite this source.
 
 # Aerial :bird: 🦇 🐝
@@ -24,3 +24,7 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 # Insect-Inspired 🕷️ 🐜
 - [Robugtix T8 – Robot Spider](https://www.youtube.com/watch?v=HfiHOpv6HtI) - The Bio Inspired 3D Printed Spider Octopod Robot
 - [Bionic Ant](https://www.youtube.com/watch?v=aBfKoKHEzPQ) - designed by Festo
+
+# Awesome github projects 🤖
+- [hyperdog_ros2](https://github.com/NDHANA94/hyperdog_ros2) - quadruped robot fully based on ROS 2 and Micro-ROS
+- [StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - open source quadruped robot that jumps, flips, and trots 🐕
