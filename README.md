@@ -11,3 +11,5 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 - [SoFi](https://www.youtube.com/watch?v=bY-bU28xzjY) - Soft Robotic Fish developed at MIT CSAIL
 - [Jellyfish-Bot](https://www.youtube.com/watch?v=Javg9Q38Qz0) - Jellyfish-inspired underwater robot designed in Max Planck Institute for Intelligent Systems
 - [Velox](https://www.youtube.com/watch?v=CkZszsl2aIU) - Amphibious Velox robot uses undulating fins to swim and crawl. Fin propulsion - [explained](https://www.youtube.com/watch?v=WevNiF2AbeM)
+- [C-Ray](https://www.youtube.com/watch?v=llEFT9euTGU) - Amphibious Swimming Robot designed by Pliant Energy Systems
+- [SAManta](https://www.youtube.com/watch?v=Zn0cNGTKa1I) - Soft Actuated Manta Ray Robot
