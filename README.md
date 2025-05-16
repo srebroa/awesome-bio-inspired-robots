@@ -18,7 +18,8 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 # Terrestrial 🦎 :rat: 🐍
 - [Pleurobot](https://www.youtube.com/watch?v=zcAR_2bNojE) - Inspired by Salamander. Capable of both walking and swimming, used to study vertebrate locomotion
 - [Robot Rat](https://www.youtube.com/watch?v=vqYJoorLJ8A) - This robotic rat can squeeze through narrow spaces and climb slopes
-- 
+- [LORIS](https://www.youtube.com/watch?v=shDUKcf1S50) - A lizard-like robot equipped with bio-inspired grippers, enabling it to climb vertical surfaces like rocks
+- [EELS](https://www.youtube.com/watch?v=ifCIDT4X9AM) - This snake-like robot was designed by NASA team to autonomously map, traverse, and explore previously inaccessible destinations on Earth and the Moon
 
 # Insect-Inspired 🕷️ 🐜
 - [Robugtix T8 – Robot Spider](https://www.youtube.com/watch?v=HfiHOpv6HtI) - The Bio Inspired 3D Printed Spider Octopod Robot
