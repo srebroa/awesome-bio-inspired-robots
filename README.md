@@ -5,6 +5,7 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 - [X-Fly](https://www.youtube.com/watch?v=nPtSjjrzf-U) - First RC Ornithopter Drone with Flight Assistance by Bionic Bird
 - [Bat Bot 2.0](https://www.youtube.com/watch?v=cm5v4jxcy-Q) - Bio-inspired Anisotropic Skin, Passive Wrist Joints, and Redesigned Flapping Mechanism
 - [RoboFalcon](https://www.youtube.com/watch?v=TXg-qoRN0co) - Ornithopter with morphing-coupled wingbeat pattern
+- [RoboBee](https://www.youtube.com/watch?v=CU_MLdM92Ms) - X-Wing Tiny Flying Insect Robot, 4 Wings & Weighs Under A Gram 
 
 
 # Aquatic-Inspired :ocean: :blowfish:
