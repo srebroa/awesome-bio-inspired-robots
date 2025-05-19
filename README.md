@@ -33,14 +33,15 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 | No. | Title | Authors | Journal Name | Year |
 |-----|-------|---------|--------------|------|
 | 1 | The Convergence of AI and Animal-Inspired Robots for Ecological Monitoring | Naqash Afzal, et al. | [Ecological Informatics](https://www.sciencedirect.com/science/article/pii/S1574954124004928) | 2024 |
-| 2 | Bioinspired Robots Can Foster Nature Conservation |Chellapurath M, Khandelwal PC and Schulz AK | [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1145798/full) | 2023 |
-| 3 | Bioinspired Soft Robotics: How Do We Learn from Creatures? | Yang Yang, Zhiguo He, Pengcheng Jiao, Hongliang Ren | [arXiv](https://arxiv.org/abs/2302.12647) | 2023 |
-| 4 | Quantifying the Biomimicry Gap in Biohybrid Robot-Fish Pairs | Vaios Papaspyros, Guy Theraulaz, Clément Sire, Francesco Mondada | [arXiv](https://arxiv.org/abs/2308.08978) | 2023 |
-| 5 | Paleoinspired Robotics as an Experimental Approach to the History of Vertebrate Locomotion | Michael Ishida, et al. | [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adn1125) | 2024 |
-| 6 | An Overview of Biomimetic Robots with Animal Behaviors | Zihang Gao, et al. | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231218315339) | 2019 |
-| 7 | Progresses of Animal Robots: A Historical Review and Perspectiveness | Zhengyue Zhou, et al. | [Heliyon](https://www.sciencedirect.com/science/article/pii/S2405844022027876) | 2022 |
-| 8 | Review of Marine Animals and Bioinspired Robotic Vehicles: Classifications and characteristics | S. Zimmerman, A. Abdelkefi | [Progress in Aerospace Sciences](https://www.sciencedirect.com/science/article/pii/S0376042117300908) | 2017 |
-| 9 | Animal-Morphing Bio-Inspired Mechatronic Systems: Research Framework in Robot Design to Enhance Interplanetary Exploration on the Moon | José Cornejo, Cecilia E. García Cena, José Baca | [Biomimetics](https://www.mdpi.com/2313-7673/9/11/693) | 2024 |
-| 10 | Bioinspired Soft Robots for Deep-Sea Exploration | Li, G., Wong, TW., Shih, B. et al | [Nature Communications](https://www.nature.com/articles/s41467-023-42882-3) | 2023 |
+| 2 | Paleoinspired Robotics as an Experimental Approach to the History of Vertebrate Locomotion | Michael Ishida, et al. | [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adn1125) | 2024 |
+| 3 | Animal-Morphing Bio-Inspired Mechatronic Systems: Research Framework in Robot Design to Enhance Interplanetary Exploration on the Moon | José Cornejo, Cecilia E. García Cena, José Baca | [Biomimetics](https://www.mdpi.com/2313-7673/9/11/693) | 2024 |
+| 4 | Bioinspired Robots Can Foster Nature Conservation | Chellapurath M, Khandelwal PC and Schulz AK | [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1145798/full) | 2023 |
+| 5 | Bioinspired Soft Robotics: How Do We Learn from Creatures? | Yang Yang, Zhiguo He, Pengcheng Jiao, Hongliang Ren | [arXiv](https://arxiv.org/abs/2302.12647) | 2023 |
+| 6 | Quantifying the Biomimicry Gap in Biohybrid Robot-Fish Pairs | Vaios Papaspyros, Guy Theraulaz, Clément Sire, Francesco Mondada | [arXiv](https://arxiv.org/abs/2308.08978) | 2023 |
+| 7 | Bioinspired Soft Robots for Deep-Sea Exploration | Li, G., Wong, TW., Shih, B. et al | [Nature Communications](https://www.nature.com/articles/s41467-023-42882-3) | 2023 |
+| 8 | Progresses of Animal Robots: A Historical Review and Perspectiveness | Zhengyue Zhou, et al. | [Heliyon](https://www.sciencedirect.com/science/article/pii/S2405844022027876) | 2022 |
+| 9 | An Overview of Biomimetic Robots with Animal Behaviors | Zihang Gao, et al. | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231218315339) | 2019 |
+| 10 | Review of Marine Animals and Bioinspired Robotic Vehicles: Classifications and characteristics | S. Zimmerman, A. Abdelkefi | [Progress in Aerospace Sciences](https://www.sciencedirect.com/science/article/pii/S0376042117300908) | 2017 |
+
 
 
