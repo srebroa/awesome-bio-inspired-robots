@@ -8,7 +8,7 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 - [RoboBee](https://www.youtube.com/watch?v=CU_MLdM92Ms) - X-Wing Tiny Flying Insect Robot, 4 Wings & Weighs Under A Gram 
 
 
-# Aquatic :ocean: :blowfish:
+# Aquatic :ocean: :blowfish: 🐢
 - [SoFi](https://www.youtube.com/watch?v=bY-bU28xzjY) - Soft Robotic Fish developed at MIT CSAIL
 - [Jellyfish-Bot](https://www.youtube.com/watch?v=Javg9Q38Qz0) - Jellyfish-inspired underwater robot designed in Max Planck Institute for Intelligent Systems
 - [Velox](https://www.youtube.com/watch?v=CkZszsl2aIU) - Amphibious Velox robot uses undulating fins to swim and crawl. Fin propulsion - [explained](https://www.youtube.com/watch?v=WevNiF2AbeM)
