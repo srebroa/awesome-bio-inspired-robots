@@ -43,5 +43,7 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 | 9 | An Overview of Biomimetic Robots with Animal Behaviors | Zihang Gao, et al. | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231218315339) | 2019 |
 | 10 | Review of Marine Animals and Bioinspired Robotic Vehicles: Classifications and characteristics | S. Zimmerman, A. Abdelkefi | [Progress in Aerospace Sciences](https://www.sciencedirect.com/science/article/pii/S0376042117300908) | 2017 |
 
+If you need support with your robotics project or if you're simply a robotics and new technology enthusiast, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/adam-srebro-phd-90a3504b).
+
 
 
