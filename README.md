@@ -14,6 +14,7 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 - [Velox](https://www.youtube.com/watch?v=CkZszsl2aIU) - Amphibious Velox robot uses undulating fins to swim and crawl. Fin propulsion - [explained](https://www.youtube.com/watch?v=WevNiF2AbeM)
 - [C-Ray](https://www.youtube.com/watch?v=llEFT9euTGU) - Amphibious Swimming Robot designed by Pliant Energy Systems
 - [SAManta](https://www.youtube.com/watch?v=Zn0cNGTKa1I) - Soft Actuated Manta Ray Robot
+- [Turtle](https://www.youtube.com/watch?v=Glgv3Uf2a9M) - Tortoise-inspired robot designed by researchers at Yale University
 
 # Terrestrial 🦎 :rat: 🐍
 - [Pleurobot](https://www.youtube.com/watch?v=zcAR_2bNojE) - Inspired by Salamander. Capable of both walking and swimming, used to study vertebrate locomotion
@@ -43,7 +44,7 @@ The list of bio-inspired-robots. If you have an interesting project and you'd li
 | 9 | An Overview of Biomimetic Robots with Animal Behaviors | Zihang Gao, et al. | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231218315339) | 2019 |
 | 10 | Review of Marine Animals and Bioinspired Robotic Vehicles: Classifications and characteristics | S. Zimmerman, A. Abdelkefi | [Progress in Aerospace Sciences](https://www.sciencedirect.com/science/article/pii/S0376042117300908) | 2017 |
 
-If you need support with your robotics project or if you're simply a robotics and new technology enthusiast, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/adam-srebro-phd-90a3504b).
+If you need support with your robotics project or if you're simply a robotics and new technology enthusiast, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/adam-srebro-phd-90a3504b) 🚀
 
 
 
